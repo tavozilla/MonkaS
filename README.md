@@ -1,2 +1,2 @@
 # MonkaS
-labs
+TriHard 7 labs
